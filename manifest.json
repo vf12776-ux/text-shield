@@ -1,0 +1,23 @@
+{
+    "name": "TextShield - Secure Encryption",
+    "short_name": "TextShield",
+    "description": "Simple and secure text encryption tool that works offline",
+    "start_url": "./",
+    "display": "standalone",
+    "background_color": "#2E86AB",
+    "theme_color": "#2E86AB",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTkyIiBoZWlnaHQ9IjE5MiIgdmlld0JveD0iMCAwIDE5MiAxOTIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIxOTIiIGhlaWdodD0iMTkyIiByeD0iMjQiIGZpbGw9IiMyZTg2YWIiLz4KPHBhdGggZD0iTTk2IDU2Qzc0LjkgNTYgNTYgNzQuOSA1NiA5NkM1NiAxMTcuMSA3NC45IDEzNiA5NiAxMzZDMTE3LjEgMTM2IDEzNiAxMTcuMSAxMzYgOTZDMTM2IDc0LjkgMTE3LjEgNTYgOTYgNTZaIiBmaWxsPSJ3aGl0ZSIvPgo8cGF0aCBkPSJNMTIwIDE2OEg3MkM2NS40IDE2OCA2MCAxNjIuNiA2MCAxNTZWMTA0QzYwIDk3LjQgNjUuNCA5MiA3MiA5MkgxMjBDMTI2LjYgOTIgMTMyIDk3LjQgMTMyIDEwNFYxNTZDMTMyIDE2Mi42IDEyNi42IDE2OCAxMjAgMTY4WiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+",
+            "sizes": "192x192",
+            "type": "image/svg+xml"
+        },
+        {
+            "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgdmlld0JveD0iMCAwIDUxMiA1MTIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiByeD0iNjQiIGZpbGw9IiMyZTg2YWIiLz4KPHBhdGggZD0iTTI1NiAxNDhDMTk5LjggMTQ4IDE1NCAxOTMuOCAxNTQgMjU2QzE1NCAzMTguMiAxOTkuOCAzNjQgMjU2IDM2NEMzMTIuMiAzNjQgMzU4IDMxOC4yIDM1OCAyNTZDMzU4IDE5My44IDMxMi4yIDE0OCAyNTYgMTQ4WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTMyMCA0NDhIMTkyQzE3NC4yIDQ0OCAxNjAgNDMzLjggMTYwIDQxNlYyNzZDMTYwIDI1OC4yIDE3NC4yIDI0NCAxOTIgMjQ0SDMyMEMzMzcuOCAyNDQgMzUyIDI1OC4yIDM1MiAyNzZWNDE2QzM1MiA0MzMuOCAzMzcuOCA0NDggMzIwIDQ0OFoiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPg==",
+            "sizes": "512x512",
+            "type": "image/svg+xml"
+        }
+    ],
+    "categories": ["security", "utilities"]
+}
