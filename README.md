@@ -1,3 +1,4 @@
+<img width="2255" height="2255" alt="qr-code (10)" src="https://github.com/user-attachments/assets/b14bcca1-3a7b-4e4b-a469-f461918123e8" />
 🔒 TextShield - Secure Text Encryption
 <div align="center">
 https://img.shields.io/badge/TextShield-Secure%2520Encryption-blue?style=for-the-badge&logo=shield
